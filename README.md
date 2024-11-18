@@ -4,3 +4,4 @@ This repository contains a fully functioning image of all packages necessary for
 ## Sources:
 
 ros_deep_learning: https://github.com/dusty-nv/ros_deep_learning
+particle_filter: https://github.com/f1tenth/particle_filter and https://github.com/CL2-UWaterloo/particle_filter
